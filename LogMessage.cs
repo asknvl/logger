@@ -6,7 +6,8 @@
         warn,
         err,
         inf,
-        inf_urgent
+        inf_urgent,
+        user_input
     }
     public class LogMessage
     {        

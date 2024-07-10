@@ -7,6 +7,7 @@
         void err(string tag, string text);
         void inf(string tag, string text);
         void inf_urgent(string tag, string text);
+        void user_input(string tag, string text);
     }
     
 }
